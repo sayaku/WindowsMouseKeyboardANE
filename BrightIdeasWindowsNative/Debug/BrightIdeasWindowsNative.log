@@ -1,0 +1,15 @@
+﻿已經開始建置於 2015/11/20 下午 12:06:13。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\sayaku\Desktop\BrightIdeasWindowsNative\BrightIdeasWindowsNative\BrightIdeasWindowsNative.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D BRIGHTIDEASWINDOWSNATIVE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt BrightIdeasWindowsNative.cpp
+         BrightIdeasWindowsNative.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sayaku\Desktop\BrightIdeasWindowsNative\Debug\BrightIdeasWindowsNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\sayaku\Desktop\BrightIdeasWindowsNative\Debug\BrightIdeasWindowsNative.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sayaku\Desktop\BrightIdeasWindowsNative\Debug\BrightIdeasWindowsNative.lib" /MACHINE:X86 /DLL Debug\BrightIdeasWindowsNative.obj
+         Debug\dllmain.obj
+         FlashRuntimeExtensions.lib
+         BrightIdeasWindowsNative.vcxproj -> C:\Users\sayaku\Desktop\BrightIdeasWindowsNative\Debug\BrightIdeasWindowsNative.dll
+     1>專案 "C:\Users\sayaku\Desktop\BrightIdeasWindowsNative\BrightIdeasWindowsNative\BrightIdeasWindowsNative.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.96

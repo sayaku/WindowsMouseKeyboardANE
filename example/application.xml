@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/18.0">
+  <id>BrightIdeasWindowsNativeSample</id>
+  <versionNumber>1.0</versionNumber>
+  <filename>BrightIdeasWindowsNativeSample</filename>
+  <name>BrightIdeasWindowsNativeSample</name>
+  <initialWindow>
+    <title>BrightIdeasWindowsNativeSample</title>
+    <content>BrightIdeasWindowsNativeSample.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>true</resizable>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+	<supportedProfiles>extendedDesktop</supportedProfiles>
+  <extensions>
+    <extensionID>com.brightideas.sayaku.BrightIdeasWindowsNative</extensionID>
+  </extensions>
+  
+</application>

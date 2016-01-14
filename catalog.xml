@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+    <versions>
+        <swc version="1.2"/>
+        <compiler name="ActionScript Compiler" version="2.0.0" build="354172"/>
+    </versions>
+    <features>
+        <feature-script-deps/>
+    </features>
+    <libraries>
+        <library path="library.swf">
+            <script name="com/brightideas/sayaku/BrightIdeasWindowsNative" mod="1448000727088">
+                <def id="com.brightideas.sayaku:BrightIdeasWindowsNative"/>
+                <dep id="Object" type="i"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <digests>
+                <digest type="SHA-256" signed="false" value="e61bc7bc6bcaded62da1465650a546a8f30d945d8bd4e9e0b23554a664418705"/>
+            </digests>
+        </library>
+    </libraries>
+</swc>

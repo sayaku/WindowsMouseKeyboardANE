@@ -1,0 +1,13 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.1">
+    <id>com.brightideas.sayaku.BrightIdeasWindowsNative</id>
+    <versionNumber>1</versionNumber>
+    <platforms>
+        <platform name="Windows-x86">
+            <applicationDeployment>
+                <nativeLibrary>BrightIdeasWindowsNative.dll</nativeLibrary>
+                <initializer>ExtInitializer</initializer>
+                <finalizer>ExtFinalizer</finalizer>
+            </applicationDeployment>
+        </platform>
+    </platforms>
+</extension>
